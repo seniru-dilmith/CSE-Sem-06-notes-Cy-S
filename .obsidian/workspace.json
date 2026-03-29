@@ -11,10 +11,14 @@
             "id": "09c2e4fc6e862171",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Human Computer Interaction/02. The Essence of HCI.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "02. The Essence of HCI"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Human Computer Interaction/01. Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 01. Introduction"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Human Computer Interaction/01. Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 01. Introduction"
             }
           },
           {
@@ -150,32 +156,65 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Human Computer Interaction/02. The Essence of HCI.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 02. The Essence of HCI"
+            }
+          },
+          {
+            "id": "a3f08bd4918f9ed0",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
+          },
+          {
+            "id": "5be4003300622b53",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
+      "daily-notes:Open today's daily note": true,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false
     }
   },
   "active": "09c2e4fc6e862171",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "2026-03-30.md",
+    "Human Computer Interaction/02. The Essence of HCI.md",
+    "utils/Pasted image 20260330003003.png",
+    "utils/Pasted image 20260330002935.png",
+    "Human Computer Interaction/01. Introduction.md",
+    "utils",
+    "utils/Pasted image 20260318221959.png",
+    "Human Computer Interaction"
+  ]
 }
