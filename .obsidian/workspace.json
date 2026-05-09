@@ -4,24 +4,75 @@
     "type": "split",
     "children": [
       {
-        "id": "ab8b67f7382feb92",
+        "id": "227c9e5a522c6018",
         "type": "tabs",
         "children": [
           {
-            "id": "09c2e4fc6e862171",
+            "id": "12ba95dff67a077b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Human Computer Interaction/02. The Essence of HCI.md",
+                "file": "Human Computer Interaction/04. The Human.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02. The Essence of HCI"
+              "title": "04. The Human"
+            }
+          },
+          {
+            "id": "0e64190f95a443c4",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "utils/Pasted image 20260510010905.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260510010905"
+            }
+          },
+          {
+            "id": "91942675c4d3bbdf",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "utils/Pasted image 20260510012458.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260510012458"
+            }
+          },
+          {
+            "id": "236e6aecedfe0f4d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "utils/Pasted image 20260510010905.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260510010905"
+            }
+          },
+          {
+            "id": "14a6d056c5efd862",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Human Computer Interaction/04. The Human.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04. The Human"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -166,16 +217,6 @@
             }
           },
           {
-            "id": "a3f08bd4918f9ed0",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
-            }
-          },
-          {
             "id": "5be4003300622b53",
             "type": "leaf",
             "state": {
@@ -184,9 +225,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "e86304b444536e9d",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -206,15 +257,28 @@
       "bases:Create new base": false
     }
   },
-  "active": "09c2e4fc6e862171",
+  "active": "14a6d056c5efd862",
   "lastOpenFiles": [
+    "utils/Pasted image 20260510012458.png",
+    "utils/Pasted image 20260510010905.png",
+    "Human Computer Interaction/04. The Human.md",
+    "Human Computer Interaction/05. The Computer.md",
+    "Human Computer Interaction/07. Heuristics.md",
+    "Human Computer Interaction/03. Introduction - Part 3.md",
+    "Human Computer Interaction/02. Introduction - Part 2.md",
+    "Human Computer Interaction/01. Introduction - Part 1.md",
+    "Engineer and Society/Case Study Analysis - BetaConnect Ltd..md",
+    "Engineer and Society",
+    "utils/Pasted image 20260422010432.png",
+    "utils/Pasted image 20260422010835.png",
+    "utils/Pasted image 20260422010734.png",
+    "utils/Pasted image 20260422010701.png",
+    "utils/Pasted image 20260422010640.png",
+    "utils/Pasted image 20260422010545.png",
+    "utils/Pasted image 20260422010515.png",
+    "utils/Pasted image 20260422010456.png",
     "2026-03-30.md",
-    "Human Computer Interaction/02. The Essence of HCI.md",
-    "utils/Pasted image 20260330003003.png",
-    "utils/Pasted image 20260330002935.png",
-    "Human Computer Interaction/01. Introduction.md",
     "utils",
-    "utils/Pasted image 20260318221959.png",
     "Human Computer Interaction"
   ]
 }
