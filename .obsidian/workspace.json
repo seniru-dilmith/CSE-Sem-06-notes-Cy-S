@@ -4,75 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "227c9e5a522c6018",
+        "id": "ddfc8bb8804a9b3c",
         "type": "tabs",
         "children": [
           {
-            "id": "12ba95dff67a077b",
+            "id": "f21080f24dc7a7ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Human Computer Interaction/04. The Human.md",
+                "file": "Human Computer Interaction/08. Design Rules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04. The Human"
-            }
-          },
-          {
-            "id": "0e64190f95a443c4",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "utils/Pasted image 20260510010905.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260510010905"
-            }
-          },
-          {
-            "id": "91942675c4d3bbdf",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "utils/Pasted image 20260510012458.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260510012458"
-            }
-          },
-          {
-            "id": "236e6aecedfe0f4d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "utils/Pasted image 20260510010905.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260510010905"
-            }
-          },
-          {
-            "id": "14a6d056c5efd862",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Human Computer Interaction/04. The Human.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "04. The Human"
+              "title": "08. Design Rules"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -257,26 +206,29 @@
       "bases:Create new base": false
     }
   },
-  "active": "14a6d056c5efd862",
+  "active": "60f665b75b8145b3",
   "lastOpenFiles": [
+    "Engineer and Society/Case Study Analysis - BetaConnect Ltd..md",
+    "Human Computer Interaction/08. Design Rules.md",
+    "utils/Pasted image 20260512210327.png",
+    "utils/Pasted image 20260511200031.png",
+    "Human Computer Interaction/07. Heuristics.md",
+    "Human Computer Interaction/06. The Interaction.md",
+    "utils/Pasted image 20260511201451.png",
+    "utils/Pasted image 20260511201409.png",
+    "Pasted image 20260511200031.png.~tmp",
+    "Human Computer Interaction/05. The Computer.md",
+    "Human Computer Interaction/04. The Human.md",
     "utils/Pasted image 20260510012458.png",
     "utils/Pasted image 20260510010905.png",
-    "Human Computer Interaction/04. The Human.md",
-    "Human Computer Interaction/05. The Computer.md",
-    "Human Computer Interaction/07. Heuristics.md",
     "Human Computer Interaction/03. Introduction - Part 3.md",
     "Human Computer Interaction/02. Introduction - Part 2.md",
     "Human Computer Interaction/01. Introduction - Part 1.md",
-    "Engineer and Society/Case Study Analysis - BetaConnect Ltd..md",
     "Engineer and Society",
     "utils/Pasted image 20260422010432.png",
     "utils/Pasted image 20260422010835.png",
     "utils/Pasted image 20260422010734.png",
     "utils/Pasted image 20260422010701.png",
-    "utils/Pasted image 20260422010640.png",
-    "utils/Pasted image 20260422010545.png",
-    "utils/Pasted image 20260422010515.png",
-    "utils/Pasted image 20260422010456.png",
     "2026-03-30.md",
     "utils",
     "Human Computer Interaction"
