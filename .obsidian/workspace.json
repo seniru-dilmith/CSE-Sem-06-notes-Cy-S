@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ddfc8bb8804a9b3c",
+        "id": "2f48cbcab819f972",
         "type": "tabs",
         "children": [
           {
-            "id": "f21080f24dc7a7ba",
+            "id": "e6dc7e490749adc0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Human Computer Interaction/11. Implementation Support.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11. Implementation Support"
             }
           }
         ]
@@ -214,8 +218,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "f21080f24dc7a7ba",
+  "active": "60f665b75b8145b3",
   "lastOpenFiles": [
+    "utils/Pasted image 20260516004933.png",
+    "utils/Pasted image 20260516003021.png",
+    "Human Computer Interaction/11. Implementation Support.md",
+    "utils/Pasted image 20260516004631.png",
+    "utils/Pasted image 20260516004319.png",
+    "Pasted image 20260516004213.png",
+    "utils/Pasted image 20260516003830.png",
+    "utils/Pasted image 20260516003654.png",
+    "utils/Pasted image 20260516003609.png",
+    "Pasted image 20260516003133.png",
+    "Mics/Kubernetes.md",
+    "Engineer and Society/Case Study Analysis - BetaConnect Ltd..md",
+    "Mics",
     "Human Computer Interaction/10. Universal Design.md",
     "utils/Pasted image 20260515012415.png",
     "Human Computer Interaction/09. Evaluation Techniques.md",
@@ -225,20 +242,11 @@
     "Human Computer Interaction/05. The Computer.md",
     "Human Computer Interaction/04. The Human.md",
     "Human Computer Interaction/01. Introduction - Part 1.md",
-    "Engineer and Society/Case Study Analysis - BetaConnect Ltd..md",
     "utils/Pasted image 20260512210327.png",
-    "utils/Pasted image 20260511200031.png",
-    "utils/Pasted image 20260511201451.png",
-    "utils/Pasted image 20260511201409.png",
     "Pasted image 20260511200031.png.~tmp",
-    "utils/Pasted image 20260510012458.png",
-    "utils/Pasted image 20260510010905.png",
     "Human Computer Interaction/03. Introduction - Part 3.md",
     "Human Computer Interaction/02. Introduction - Part 2.md",
     "Engineer and Society",
-    "utils/Pasted image 20260422010432.png",
-    "utils/Pasted image 20260422010835.png",
-    "utils/Pasted image 20260422010734.png",
     "2026-03-30.md",
     "utils",
     "Human Computer Interaction"
