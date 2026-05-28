@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Human Computer Interaction/14. Ubiquitous Computing and Augmented Realities.md",
+                "file": "Mics/High-Performance eBPF Optimization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14. Ubiquitous Computing and Augmented Realities"
+              "title": "High-Performance eBPF Optimization"
             }
           }
         ]
@@ -220,6 +220,9 @@
   },
   "active": "b26813155ad2a8bf",
   "lastOpenFiles": [
+    "Mics/The Ultimate Kubernetes Masterclass.md",
+    "Mics/High-Performance eBPF Optimization.md",
+    "Human Computer Interaction/14. Ubiquitous Computing and Augmented Realities.md",
     "utils/Pasted image 20260523200937.png",
     "utils/Pasted image 20260523200903.png",
     "utils/Pasted image 20260523200753.png",
@@ -228,7 +231,6 @@
     "Human Computer Interaction/13. Interaction Design Basics.md",
     "utils/Pasted image 20260523171558.png",
     "utils/Pasted image 20260523170739.png",
-    "Human Computer Interaction/14. Ubiquitous Computing and Augmented Realities.md",
     "Human Computer Interaction/12. User Support.md",
     "Human Computer Interaction/11. Implementation Support.md",
     "Human Computer Interaction/10. Universal Design.md",
@@ -244,8 +246,6 @@
     "utils/Pasted image 20260516202404.png",
     "utils/Pasted image 20260516004933.png",
     "utils/Pasted image 20260516003021.png",
-    "utils/Pasted image 20260516004631.png",
-    "Mics/Kubernetes.md",
     "Engineer and Society/Case Study Analysis - BetaConnect Ltd..md",
     "Mics",
     "Pasted image 20260511200031.png.~tmp",
