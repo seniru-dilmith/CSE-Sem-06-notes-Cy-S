@@ -218,10 +218,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "b26813155ad2a8bf",
+  "active": "60f665b75b8145b3",
   "lastOpenFiles": [
-    "Mics/The Ultimate Kubernetes Masterclass.md",
+    "LLVM Compiler.md",
     "Mics/High-Performance eBPF Optimization.md",
+    "Mics/The Ultimate Kubernetes Masterclass.md",
     "Human Computer Interaction/14. Ubiquitous Computing and Augmented Realities.md",
     "utils/Pasted image 20260523200937.png",
     "utils/Pasted image 20260523200903.png",
