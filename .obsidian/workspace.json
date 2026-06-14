@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mics/High-Performance eBPF Optimization.md",
+                "file": "Human Computer Interaction/09. Evaluation Techniques.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "High-Performance eBPF Optimization"
+              "title": "09. Evaluation Techniques"
             }
           }
         ]
@@ -218,10 +218,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "60f665b75b8145b3",
+  "active": "b26813155ad2a8bf",
   "lastOpenFiles": [
-    "LLVM Compiler.md",
+    "Human Computer Interaction/07. Heuristics.md",
+    "Human Computer Interaction/06. The Interaction.md",
     "Mics/High-Performance eBPF Optimization.md",
+    "LLVM Compiler.md",
     "Mics/The Ultimate Kubernetes Masterclass.md",
     "Human Computer Interaction/14. Ubiquitous Computing and Augmented Realities.md",
     "utils/Pasted image 20260523200937.png",
@@ -237,8 +239,6 @@
     "Human Computer Interaction/10. Universal Design.md",
     "Human Computer Interaction/09. Evaluation Techniques.md",
     "Human Computer Interaction/08. Design Rules.md",
-    "Human Computer Interaction/07. Heuristics.md",
-    "Human Computer Interaction/06. The Interaction.md",
     "Human Computer Interaction/05. The Computer.md",
     "Human Computer Interaction/04. The Human.md",
     "Human Computer Interaction/03. Introduction - Part 3.md",
