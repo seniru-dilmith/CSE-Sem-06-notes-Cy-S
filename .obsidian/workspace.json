@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Human Computer Interaction/09. Evaluation Techniques.md",
-                "mode": "source",
+                "file": "Human Computer Interaction/03. Introduction - Part 3.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "09. Evaluation Techniques"
+              "title": "03. Introduction - Part 3"
             }
           }
         ]
@@ -218,32 +218,32 @@
       "bases:Create new base": false
     }
   },
-  "active": "b26813155ad2a8bf",
+  "active": "60f665b75b8145b3",
   "lastOpenFiles": [
+    "Human Computer Interaction/10. Universal Design.md",
+    "Human Computer Interaction/09. Evaluation Techniques.md",
+    "Human Computer Interaction/08. Design Rules.md",
     "Human Computer Interaction/07. Heuristics.md",
+    "Human Computer Interaction/04. The Human.md",
+    "Human Computer Interaction/12. User Support.md",
+    "Human Computer Interaction/13. Interaction Design Basics.md",
+    "Human Computer Interaction/14. Ubiquitous Computing and Augmented Realities.md",
+    "Human Computer Interaction/11. Implementation Support.md",
     "Human Computer Interaction/06. The Interaction.md",
+    "Human Computer Interaction/05. The Computer.md",
+    "Human Computer Interaction/03. Introduction - Part 3.md",
+    "Human Computer Interaction/02. Introduction - Part 2.md",
+    "Human Computer Interaction/01. Introduction - Part 1.md",
     "Mics/High-Performance eBPF Optimization.md",
     "LLVM Compiler.md",
     "Mics/The Ultimate Kubernetes Masterclass.md",
-    "Human Computer Interaction/14. Ubiquitous Computing and Augmented Realities.md",
     "utils/Pasted image 20260523200937.png",
     "utils/Pasted image 20260523200903.png",
     "utils/Pasted image 20260523200753.png",
     "utils/Pasted image 20260523200505.png",
     "utils/Pasted image 20260523195652.png",
-    "Human Computer Interaction/13. Interaction Design Basics.md",
     "utils/Pasted image 20260523171558.png",
     "utils/Pasted image 20260523170739.png",
-    "Human Computer Interaction/12. User Support.md",
-    "Human Computer Interaction/11. Implementation Support.md",
-    "Human Computer Interaction/10. Universal Design.md",
-    "Human Computer Interaction/09. Evaluation Techniques.md",
-    "Human Computer Interaction/08. Design Rules.md",
-    "Human Computer Interaction/05. The Computer.md",
-    "Human Computer Interaction/04. The Human.md",
-    "Human Computer Interaction/03. Introduction - Part 3.md",
-    "Human Computer Interaction/02. Introduction - Part 2.md",
-    "Human Computer Interaction/01. Introduction - Part 1.md",
     "utils/Pasted image 20260516202404.png",
     "utils/Pasted image 20260516004933.png",
     "utils/Pasted image 20260516003021.png",
