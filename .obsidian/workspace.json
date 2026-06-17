@@ -11,14 +11,10 @@
             "id": "b26813155ad2a8bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Human Computer Interaction/03. Introduction - Part 3.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03. Introduction - Part 3"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -176,16 +172,6 @@
             }
           },
           {
-            "id": "e86304b444536e9d",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
-            }
-          },
-          {
             "id": "d5b70e63cb7bd42f",
             "type": "leaf",
             "state": {
@@ -195,6 +181,16 @@
               },
               "icon": "lucide-info",
               "title": "File properties for 09. Evaluation Techniques"
+            }
+          },
+          {
+            "id": "3179db1514631126",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
             }
           }
         ],
@@ -206,20 +202,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "60f665b75b8145b3",
+  "active": "3179db1514631126",
   "lastOpenFiles": [
+    "Untitled.base",
+    "Mics/The Ultimate Kubernetes Masterclass.md",
+    "Mics/High-Performance eBPF Optimization.md",
+    "Engineer and Society/Case Study Analysis - BetaConnect Ltd..md",
+    "Human Computer Interaction/03. Introduction - Part 3.md",
     "Human Computer Interaction/10. Universal Design.md",
     "Human Computer Interaction/09. Evaluation Techniques.md",
     "Human Computer Interaction/08. Design Rules.md",
@@ -231,12 +232,9 @@
     "Human Computer Interaction/11. Implementation Support.md",
     "Human Computer Interaction/06. The Interaction.md",
     "Human Computer Interaction/05. The Computer.md",
-    "Human Computer Interaction/03. Introduction - Part 3.md",
     "Human Computer Interaction/02. Introduction - Part 2.md",
     "Human Computer Interaction/01. Introduction - Part 1.md",
-    "Mics/High-Performance eBPF Optimization.md",
     "LLVM Compiler.md",
-    "Mics/The Ultimate Kubernetes Masterclass.md",
     "utils/Pasted image 20260523200937.png",
     "utils/Pasted image 20260523200903.png",
     "utils/Pasted image 20260523200753.png",
@@ -247,7 +245,6 @@
     "utils/Pasted image 20260516202404.png",
     "utils/Pasted image 20260516004933.png",
     "utils/Pasted image 20260516003021.png",
-    "Engineer and Society/Case Study Analysis - BetaConnect Ltd..md",
     "Mics",
     "Pasted image 20260511200031.png.~tmp",
     "Engineer and Society",
